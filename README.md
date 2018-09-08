@@ -1,5 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
+<img src="Lane_lines_detection.png" width="480" alt="Combined Image" />
 ---
 
 **Finding Lane Lines on the Road**
