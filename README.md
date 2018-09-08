@@ -1,9 +1,9 @@
 # **Finding Lane Lines on the Road** 
 
 <img src="Lane_lines_detection.png" width="480" />
+Validation Image of Lane Lines Detection
 ---
 
-**Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
